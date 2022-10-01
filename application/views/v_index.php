@@ -48,3 +48,4 @@ menangani bagian controller dan modelnya. Jadi pembagian tugas pun
 menjadi mudah dan pengembangan aplikasi dapat di lakukan dengan
 cepat dan terstruktur.</p>
  </section>
+ 
