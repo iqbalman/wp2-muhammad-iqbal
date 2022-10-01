@@ -1,7 +1,8 @@
 <html>
 
 <head>
-    <title>Latihan 1</title>
+    <title>Lati
+        han 1</title>
 </head>
 
 <body>
